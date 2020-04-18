@@ -5,4 +5,4 @@ Com:
 - HTTP Request (GET, POST, PUT e DELETE);
 - Gerenciador de pacotes YARN e NPM
 - Nodemon;
-- Debug ...
+- Debug com o VSCode
